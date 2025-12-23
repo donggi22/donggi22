@@ -38,7 +38,7 @@
   <br/>
   <img src="https://github-readme-stats-y8tm.vercel.app/api?username=donggi22&theme=gruvbox&show_icons=true"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donggi22&show_icons=true&hide_border=true&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donggi22&layout=compact&show_icons=true&hide_border=true&theme=gruvbox" />
 </div>
 
 <br/>
