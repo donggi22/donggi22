@@ -11,6 +11,11 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/></a>&nbsp
+
+<p align="center">
 <img src="https://img.shields.io/badge/Docker-2ca5e0?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"></a>&nbsp
