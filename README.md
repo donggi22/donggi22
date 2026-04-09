@@ -8,29 +8,30 @@
 <br/>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=ffdd54"/>&nbsp
-</p>
 
 <p align="center">
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=ffdd54"/>&nbsp
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/💿_matplotlib-%236badde.svg?style=flat">&nbsp
-<img src="https://img.shields.io/badge/OpenCV-27338e?logo=opencv&logoColor=white">&nbsp
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikit-learn">&nbsp
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/OpenCV-27338e?logo=opencv&logoColor=white">&nbsp
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat&logo=Roboflow&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>&nbsp
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>&nbsp
 </p>
 
 <p align="center">
