@@ -21,6 +21,8 @@
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white"></a>&nbsp
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/roboflow-%23EE4C2C.svg?style=flat-square&logo=roboflow&logoColor=white"></a>&nbsp
+<img src="https://img.shields.io/badge/OpenCV-27338e?logo=opencv&logoColor=white"></a>&nbsp
+
 </p>
 
 <p align="center">
