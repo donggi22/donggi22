@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/scikit--learn-0D1117?style=flat&logo=scikit-learn">&nbsp
+<img src="https://img.shields.io/badge/scikit--learn-3766AB?style=flat&logo=scikit-learn">&nbsp
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white">&nbsp
