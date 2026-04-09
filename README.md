@@ -36,6 +36,10 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Docker-2ca5e0?style=flat-square&logo=docker&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white"/>&nbsp
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white">&nbsp
 </p>
 
