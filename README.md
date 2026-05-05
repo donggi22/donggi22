@@ -12,7 +12,8 @@
 <h3 align="center">Language</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=FFD43B">
+<img src="https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=FFD43B">&nbsp
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=Cplusplus&logoColor=white">
 </p>
 
 <h3 align="center">Computer Vision / Data</h3>
