@@ -10,10 +10,15 @@
 <h2 align="center">🛠 Tech Stack 🛠</h2>
 
 <h3 align="center">Language</h3>
-
 <p align="center">
 <img src="https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=FFD43B">&nbsp
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=Cplusplus&logoColor=white">
+</p>
+
+<h3 align="center">Agent</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=LangChain&logoColor=7FC8FF">&nbsp
+<img src="https://img.shields.io/badge/LangGraph-000000?style=flat&logo=LangGraph&logoColor=7FC8FF">
 </p>
 
 <h3 align="center">Computer Vision / Data</h3>
@@ -24,7 +29,7 @@
 <img src="https://img.shields.io/badge/💿_matplotlib-65baea?style=flat">
 </p>
 
-<h3 align="center">Machine Learning / Deep Learning</h3>
+<h3 align="center">ML / DL</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/scikit--learn-3499cd?style=flat&logo=scikit-learn">&nbsp
 <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=flat&logo=pytorch&logoColor=white">&nbsp
@@ -50,7 +55,7 @@
 <img src="https://img.shields.io/badge/MongoDB_Atlas-061621?style=flat&logo=mongodb&logoColor=00fe69">
 </p>
 
-<h3 align="center">Infra / Environment</h3>
+<h3 align="center">Infra / Environment / OS</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Docker-1d63ed?style=flat&logo=docker&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white">&nbsp
@@ -61,7 +66,8 @@
 <p align="center">
 <img src="https://img.shields.io/badge/git-fb4f28?style=flat&logo=git&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">&nbsp
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white">
+<img src="https://img.shields.io/badge/Linear-000000?style=flat&logo=Linear&logoColor=white">
+
 </p>
 
 
