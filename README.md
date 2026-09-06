@@ -21,19 +21,20 @@
 <img src="https://img.shields.io/badge/LangGraph-000000?style=flat&logo=LangGraph&logoColor=7FC8FF">
 </p>
 
-<h3 align="center">Computer Vision / Data</h3>
+<h3 align="center">Data</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">&nbsp
-<img src="https://img.shields.io/badge/OpenCV-ff2a44?&style=flat&logo=opencv&logoColor=128dff">&nbsp
 <img src="https://img.shields.io/badge/-pandas-130654?style=flat&logo=pandas&logoColor=white">&nbsp
-<img src="https://img.shields.io/badge/💿_matplotlib-65baea?style=flat">
+<img src="https://img.shields.io/badge/💿_matplotlib-65baea?style=flat">&nbsp
+<img src="https://img.shields.io/badge/roboflow-6706CE?style=flat&logo=Roboflow&logoColor=white">
 </p>
 
 <h3 align="center">ML / DL</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/scikit--learn-3499cd?style=flat&logo=scikit-learn">&nbsp
 <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=flat&logo=pytorch&logoColor=white">&nbsp
-<img src="https://img.shields.io/badge/Keras-d00000?style=flat&logo=Keras&logoColor=white">
+<img src="https://img.shields.io/badge/Keras-d00000?style=flat&logo=Keras&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/OpenCV-ff2a44?style=flat&logo=opencv&logoColor=128dff">
 </p>
 
 <h3 align="center">Serving / Demo</h3>
@@ -42,11 +43,6 @@
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white">
 </p>
 
-<h3 align="center">CV Dataset Management</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/roboflow-6706CE?style=flat&logo=Roboflow&logoColor=white">
-
-</p>
 
 <h3 align="center">Database</h3>
 <p align="center">
